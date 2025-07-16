@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e01117c35fc2c2047a6149fcc5edc42a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Settings/Ground_01.terrainlayer
+  uploadId: 719861

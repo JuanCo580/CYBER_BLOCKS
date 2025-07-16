@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9bfc71ec7a8c780459909e8bc76c2aad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Scripts/SimpleCameraController.cs
+  uploadId: 719861

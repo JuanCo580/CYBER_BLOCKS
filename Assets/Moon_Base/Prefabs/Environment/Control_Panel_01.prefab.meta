@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7d6559f892094c4d88caaea332cf9bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Prefabs/Environment/Control_Panel_01.prefab
+  uploadId: 719861

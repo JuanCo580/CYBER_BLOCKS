@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22a0dc78225cb76408e84958abd724a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Settings/Terrain.asset
+  uploadId: 719861

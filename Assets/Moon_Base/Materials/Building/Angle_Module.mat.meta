@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eadbb06dd40e6924db31937df8fca0cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Materials/Building/Angle_Module.mat
+  uploadId: 719861

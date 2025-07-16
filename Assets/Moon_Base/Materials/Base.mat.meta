@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0063999dd35b4b845a62051bf03df8a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Materials/Base.mat
+  uploadId: 719861

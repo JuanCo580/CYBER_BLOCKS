@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9055d9da37ec79c499c57ed1f9ed1b23
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Settings/LODGroup.preset
+  uploadId: 719861

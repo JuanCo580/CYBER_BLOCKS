@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e89e305624bc2d4fa03d3c2a2ea5e29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 242575
+  packageName: Sci Fi Moon Base
+  packageVersion: 1.0
+  assetPath: Assets/Moon_Base/Materials/Environment/Greenhouse.mat
+  uploadId: 719861
